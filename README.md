@@ -16,10 +16,9 @@ We scrap data from
 - [Metacritic](https://www.metacritic.com/) for metacritic scores.
 
 See ``./Data Scraping and Cleaning`` for how we scraped the data. 
-
-We are not able to upload all the data, as some of them exceeds the upload limit. Please email the team members to request acess to more data. 
 - The file `SteamCharts.csv` contains monthly data during July 2012 to April 2021 of the monthly number of players.
-- The file `AllData.csv` contains game features, together with the max and mean of 'Avg_Players' and the max and mean of 'Peak_Players'
+- The file `AllData.csv` contains game features, together with the max and mean of 'Avg_Players' and the max and mean of 'Peak_Players'.
+We are not able to upload all the data, as some of them exceeds the upload limit. Please email the team members to request acess to more data. 
 
 # Exploratory Data Analysis
 
