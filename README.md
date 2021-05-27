@@ -7,13 +7,19 @@ A project to study Steam game data, involving classification, prediction and sur
 
 ## Goal
 
-# Data Scrapping and Cleaning
+# Data Scraping and Cleaning
 
 We scrap data from 
 - [SteamCharts](https://steamcharts.com/) for time series data of number of players, 
 - [SteamSpy](https://steamspy.com/) for owners and userscores, 
 - [Steam](https://store.steampowered.com/) for 70+ game features, using files taken from https://github.com/CraigKelly/steam-data.
 - [Metacritic](https://www.metacritic.com/) for metacritic scores.
+
+See ``./Data Scraping and Cleaning`` for details. We are not able to upload all the data, as some of them exceeds the upload limit. Please email the team members to request acess to more data.
+
+# Exploratory Data Analysis
+
+
 
 # Modelling
 
