@@ -9,6 +9,12 @@ A project to study Steam game data, involving classification, prediction and sur
 
 # Data Scrapping and Cleaning
 
+We scrap data from 
+- [SteamCharts](https://steamcharts.com/), 
+- [SteamSpy](https://steamspy.com/), 
+- [Steam](https://store.steampowered.com/): , using files taken from https://github.com/CraigKelly/steam-data.
+- [Metacritic](https://www.metacritic.com/).
+
 # Modelling
 
 ## Classification
