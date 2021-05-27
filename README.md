@@ -9,17 +9,17 @@ A project to study Steam game data, involving classification, prediction and sur
 
 # Data Scraping and Cleaning
 
-We scrap data from 
+We scrap data from (see ``./Data Scraping and Cleaning`` for the code)
 - [SteamCharts](https://steamcharts.com/) for time series data of number of players of 10k+ games.
 - [SteamSpy](https://steamspy.com/) for owners and userscores of 57k+ games, 
 - [Steam](https://store.steampowered.com/) for 70+ game features of 57k+ games, using files taken from https://github.com/CraigKelly/steam-data.
 - [Metacritic](https://www.metacritic.com/) for metacritic scores of 57k+ games.
 
-See ``./Data Scraping and Cleaning`` for how we scraped the data. 
+You can access some of our data from the following files:
 - The file `SteamCharts.csv` contains monthly data during July 2012 to April 2021 of the monthly number of players.
 - The file `AllData.csv` contains game features, together with the max and mean of 'Avg_Players' and the max and mean of 'Peak_Players'.
 
-We are not able to upload all of the data, as some of them exceeds the upload limit. Please email the team members to request access to more data. 
+Please email the team members to request access to the full data. 
 
 # Exploratory Data Analysis
 
