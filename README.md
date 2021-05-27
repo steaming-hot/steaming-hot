@@ -1,16 +1,16 @@
-### Hi there 👋
+# steaming-hot
+A project to study Steam game data, involving classification, prediction and survival analysis. Our team members are Alex Casella, Eduardo Medina, Joseph Leung, Kanishk Jain, Ling Zhou and Rohit Satija. This project is done during the Erdős Institute's 2021 Boot Camp.
 
-<!--
-**steaming-hot/steaming-hot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Problem and Goals
 
-Here are some ideas to get you started:
+## Goal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Data Scrapping and Cleaning
+
+# Classification
+
+# Regression
+
+# Prediction
+
+# Survival Analysis
