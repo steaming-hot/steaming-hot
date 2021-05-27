@@ -7,10 +7,12 @@ A project to study Steam game data, involving classification, prediction and sur
 
 # Data Scrapping and Cleaning
 
-# Classification
+# Modelling
 
-# Regression
+## Classification
 
-# Prediction
+## Regression
 
-# Survival Analysis
+## Prediction
+
+## Survival Analysis
