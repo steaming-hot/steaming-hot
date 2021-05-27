@@ -13,6 +13,6 @@ A project to study Steam game data, involving classification, prediction and sur
 
 ## Regression
 
-## Prediction
+## Time Series Prediction
 
 ## Survival Analysis
