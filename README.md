@@ -10,10 +10,10 @@ A project to study Steam game data, involving classification, prediction and sur
 # Data Scraping and Cleaning
 
 We scrap data from 
-- [SteamCharts](https://steamcharts.com/) for time series data of number of players, 
-- [SteamSpy](https://steamspy.com/) for owners and userscores, 
-- [Steam](https://store.steampowered.com/) for 70+ game features, using files taken from https://github.com/CraigKelly/steam-data.
-- [Metacritic](https://www.metacritic.com/) for metacritic scores.
+- [SteamCharts](https://steamcharts.com/) for time series data of number of players of 10k+ games.
+- [SteamSpy](https://steamspy.com/) for owners and userscores of 57k+ games, 
+- [Steam](https://store.steampowered.com/) for 70+ game features of 57k+ games, using files taken from https://github.com/CraigKelly/steam-data.
+- [Metacritic](https://www.metacritic.com/) for metacritic scores of 57k+ games.
 
 See ``./Data Scraping and Cleaning`` for how we scraped the data. 
 - The file `SteamCharts.csv` contains monthly data during July 2012 to April 2021 of the monthly number of players.
