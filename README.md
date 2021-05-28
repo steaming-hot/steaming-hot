@@ -33,7 +33,7 @@ See ``./Exploratory Data Analysis`` for some example Jupyter notebooks examing t
 Using these data, we developed several algorithmic and machine learning techniques to address feature selection, revenue modeling, and forecasting.  
 
 ## Classification
-
+We deployed several machine learning algorithms, including K-Nearest Neighbors, Logistic Regression, Support Vector Machines, Decision Trees, Random Forests, and AdaBoost to classify ~8,000 games with ~47 numeric and categorical features based on their popularity. See ``./Classification`` for more information and the corresponding Jupyter notebooks.
 
 ## Regression
 
