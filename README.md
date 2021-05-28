@@ -6,7 +6,7 @@ A project to study Steam game data, involving classification, prediction and sur
 # Problem
 While certain extremely popular games like PUBG, Dota 2, and Counter Strike GO have a religious following, a large majority of games on Steam are rarely played. Using a data-driven approach, we wanted to understand why certain games are more popular than others and use this information to help game developers and gaming studios to maximize the chances of success of their products.
 
-# Key Questions
+## Key Questions
 1. What features should game developers focus on, early in game development?
 2. How should a developer present and price their game on the Steam library store?
 3. How will the game perform in the future?
@@ -29,9 +29,11 @@ Please email the team members to request access to the full data.
 
 See ``./Exploratory Data Analysis`` for some example Jupyter notebooks examing the data. We have done basic plotting of the time series data, scatter matrix of the continous futures, histograms for the categorical features, etc.
 
-# Modelling
+# Modeling
+Using these data, we developed several algorithmic and machine learning techniques to address feature selection, revenue modeling, and forecasting.  
 
 ## Classification
+
 
 ## Regression
 
