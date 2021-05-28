@@ -7,4 +7,4 @@ We used data from ``../AllData.csv`` to classify games into different "popularit
 - Grade 2: 10 < mean_players < 100
 - Grade 1: mean_players < 10
 
-For multi-class classification problems, the above categorization led to class imbalance. Therefore, we restricted our machine learning models to only solve binary classification problems and efficiently distinguish the most popular games from the least popular ones.
+For multi-class classification, the above categorization led to class imbalance and poor predictive power. Therefore, we restricted our machine learning models to only solve binary classification problems and efficiently distinguish the most popular games from the least popular ones.
