@@ -23,7 +23,7 @@ Please email the team members to request access to the full data.
 
 # Exploratory Data Analysis
 
-See ``./Exploratory Data Analysis`` for some example Jupyter notebooks examing the data. We have done some basic plotting of the time series data, scatter matrix of the continous futures and histograms for the categorical features.
+See ``./Exploratory Data Analysis`` for some example Jupyter notebooks examing the data. We have done basic plotting of the time series data, scatter matrix of the continous futures, histograms for the categorical features, etc.
 
 # Modelling
 
