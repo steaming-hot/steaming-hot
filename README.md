@@ -6,12 +6,10 @@ A project to study Steam game data, involving classification, prediction and sur
 # Problem
 We wanted to create a recommendation engine for game developers and gaming studios so they could maximize the chances of success of their products
 
-# Goals
-To address this problem, we divided our solutions into three broad categories:
+# Key Questions
 1. Development: What features should game developers focus on, early on?
 2. Deployment: How should a developer present their game in a Steam library store? What is the expected revenue?
-3. 
-
+3. Down The Road: How will the game perform in the future? What is the next decision?
 
 # Data Scraping and Cleaning
 
