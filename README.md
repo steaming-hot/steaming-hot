@@ -4,7 +4,7 @@ A project to study Steam game data, involving classification, prediction and sur
 ) and Rohit Satija (rsatija@berkeley.edu). This project was done during the Erdős Institute's 2021 Boot Camp.
 
 # Problem
-We wanted to create a recommendation engine for game developers and gaming studios so they could maximize the chances of success of their products
+While certain extremely popular games like PUBG, Dota 2, and Counter Strike GO have a religious following, a large majority of games on Steam are rarely played. Using a data-driven approach, we wanted to understand why certain games are more popular than others and use this information to help game developers and gaming studios to maximize the chances of success of their products.
 
 # Key Questions
 1. Development: What features should game developers focus on, early on?
