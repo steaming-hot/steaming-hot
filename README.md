@@ -3,13 +3,19 @@ A project to study Steam game data, involving classification, prediction and sur
 ), Eduardo Medina (medin215@umn.edu), Joseph Leung (leung.179@osu.edu), Kanishk Jain (kanishkbjain@gmail.com), Ling Zhou (zhou.2568@osu.edu
 ) and Rohit Satija (rsatija@berkeley.edu). This project was done during the Erdős Institute's 2021 Boot Camp.
 
-# Problem and Goals
+# Problem
+We wanted to create a recommendation engine for game developers and gaming studios so they could maximize the chances of success of their products
 
-## Goal
+# Goals
+To address this problem, we divided our solutions into three broad categories:
+1. Development: What features should game developers focus on, early on?
+2. Deployment: How should a developer present their game in a Steam library store? What is the expected revenue?
+3. 
+
 
 # Data Scraping and Cleaning
 
-We scrap data from (see ``./Data Scraping and Cleaning`` for the code)
+We scraped data from (see ``./Data Scraping and Cleaning`` for the code)
 - [SteamCharts](https://steamcharts.com/) for time series data of number of players of 10k+ games.
 - [SteamSpy](https://steamspy.com/) for owners and userscores of 57k+ games, 
 - [Metacritic](https://www.metacritic.com/) for metacritic scores of 57k+ games,
