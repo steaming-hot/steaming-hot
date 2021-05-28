@@ -1,5 +1,5 @@
 # Classification
-We used data from ``../AllData.csv`` to classify games into different "popularity grades", based on the average player count per day on Steam. For example, we defined the following rubric for heuristic feature selection:
+We used data from ``../AllData.zip`` to classify games into different "popularity grades", based on the average player count per day on Steam. For example, we defined the following rubric for heuristic feature selection:
 
 - Grade 5: 10,000 < mean_players
 - Grade 4: 1,000 < mean_players < 10,000
