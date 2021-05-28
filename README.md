@@ -7,9 +7,10 @@ A project to study Steam game data, involving classification, prediction and sur
 While certain extremely popular games like PUBG, Dota 2, and Counter Strike GO have a religious following, a large majority of games on Steam are rarely played. Using a data-driven approach, we wanted to understand why certain games are more popular than others and use this information to help game developers and gaming studios to maximize the chances of success of their products.
 
 ## Key Questions
-1. What features should game developers focus on, early in game development?
+1. What features should game developers focus on, early during game development?
 2. How should a developer present and price their game on the Steam library store?
-3. How will the game perform in the future?
+3. Based on its individual features and track record, how will a game perform in the future?
+4. What measures can one take to improve the performance of a game on Steam?
 
 # Data Scraping and Cleaning
 
