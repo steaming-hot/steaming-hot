@@ -7,3 +7,4 @@ The Kaplan-Meier estimator was used to generate an estimate of the Survival Prob
 
 ![](Est_surv_prob.jpg?raw=true)
 
+It is possible to appreciate a rapid slope at the beginning. This suggest that most of the games from the data set fall to the 10% mark within the first 6 to 10 months.
