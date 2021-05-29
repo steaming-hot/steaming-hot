@@ -7,13 +7,13 @@ The Kaplan-Meier estimator was used to generate an estimate of the Survival Prob
 
 ![](Est_surv_prob.jpg?raw=true)
 
-It is possible to appreciate a rapid slope at the beginning. This suggest that most of the games from the data set fall to the 10% mark within the first 6 to 10 months.
+It is possible to appreciate a rapid slope at the beginning. This suggests that most of the games from the data set fall to the 10% mark within the first 6 to 10 months.
 
-The  Cox's proportional hazards model was used to generate predictions comming from selected features. A total of 47 numeric features were selected. It is well known that to measure the performance of this model, we have to calculate the Harrell’s concordance index (1).
+The  Cox's proportional hazards model was used to generate predictions coming from selected features. A total of 47 numeric features were selected. It is well known that to measure the performance of this model, we have to calculate the Harrell’s concordance index (1).
 
 After cross validation, the concordance index was of ~6.5, which means that the model predicts a little better than random.
 
-Although a prediction model is not reliable, we can still observe the prognostic factor, which are the coefficients comming from fitting. If a coefficient is greater than zero, then it contributes to a faster decline in survavility. The effect is the opposite for coefficients less than zero.
+Although a prediction model is not reliable, we can still observe the prognostic factor values, which are the coefficients coming from fitting. If a coefficient is greater than zero, then it contributes to a faster decline in survivability. The effect is the opposite for coefficients less than zero.
 
 Here we report a few of them:
 
