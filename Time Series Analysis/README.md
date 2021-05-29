@@ -26,7 +26,7 @@ In summary, the model is built with the following steps.
 3. Collect all data B with big enough weight.
 4. Compute a weighted average: sum over B multiply by its weight that has big enough weight. Scale the weighted sum.
 
-For more details, this process is explained and built in the TS_ModelExp notebook. Here's an example if you input a game with first 12 month data being
+For more details, this process is explained and built in the ``TS_ModelExp.ipynb`` notebook. Here's an example if you input a game with first 12 month data being
 [500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1050, 1100]
 
 ![image.png](attachment:4722fc5d-dce0-49b6-85d4-5d19da205050.png)
