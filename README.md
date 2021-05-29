@@ -22,7 +22,7 @@ We scraped data from (see ``./Data Scraping and Cleaning`` for the code)
 
 You can access some of our data from the following files:
 - The file `SteamCharts.csv` contains monthly data during July 2012 to April 2021 of the monthly number of players.
-- The file `AllData.csv` contains game features, together with the max and mean of 'Avg_Players' and the max and mean of 'Peak_Players'.
+- The file `AllData.zip` contains game features, together with the max and mean of 'Avg_Players' and the max and mean of 'Peak_Players'.
 
 Please email the team members to request access to the full data. 
 
