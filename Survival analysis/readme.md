@@ -17,7 +17,7 @@ Although a prediction model is not reliable, we can still observe the prognostic
 
 Here we report a few of them:
 
-| Feature | `Coefficient` |
+| Feature | Coefficient |
 |-------|----------------|
 |RequiredAge|-0.008818|
 |DemoCount|0.025099|
