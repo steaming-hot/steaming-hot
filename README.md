@@ -49,7 +49,9 @@ We also tried other models such as random forest regression, decision tree regre
 
 ## Survival Analysis
 We implemented both the  Kaplan-Meier estimator and Cox's proportional hazards model on time series data with respect to the peak players per month since the day of a game release. We build a survival probability curve that depends on feature selection. Since the Harrell's concordance index is below 0.7, we determine that it is not a viable option to predict survivability. However, the coefficients from the generated fit provide the feature prognostic factor, which gives insight into the impact of a feature on survivability. See ./Survival Analysis for more information and the corresponding Jupyter notebook.
+
 # WebApp
+See [https://share.streamlit.io/alexcasella/streamlit/main/main.py](https://share.streamlit.io/alexcasella/streamlit/main/main.py).
 
 ## Licensing
 
