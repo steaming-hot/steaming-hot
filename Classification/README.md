@@ -9,12 +9,10 @@ We used data from ``../AllData.zip`` to classify games into different "popularit
 |2|>10 and <100|
 |1|<10|
 
-- Grade 5 | 10,000 < 
-- Grade 4 | 1,000 < `mean_players` < 10,000
-- Grade 3 | 100 < `mean_players` < 1,000
-- Grade 2 | 10 < `mean_players` < 100
-- Grade 1 | `mean_players` < 10
-
 For multi-class classification, the above categorization led to class imbalance and poor predictive power. Therefore, we restricted our machine learning models to only solve binary classification problems and efficiently distinguish the more popular games (100 < `mean_players`) from the less popular ones (`mean_players` < 5).
 
-Here is a summary 
+Here is a brief test set performance summary of all models that we tried:
+
+| Model | `accuracy_score`% | `precision_score`% | `recall_score`% | `f1_score`% | `AUC_score`% |
+|-------|----------------|
+|KNeighborsClassifier|73.78|74.94|71.96|73.42|81.86|
