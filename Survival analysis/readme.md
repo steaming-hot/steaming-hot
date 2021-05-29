@@ -13,7 +13,11 @@ The  Cox's proportional hazards model was used to generate predictions comming f
 
 After cross validation, the concordance index was of ~6.5, which means that the model predicts a little better than random.
 
-Although a prediction model is not reliable, we can still report the 
+Although a prediction model is not reliable, we can still observe the prognostic factor, which are the coefficients comming from fitting. If a coefficient is greater than zero, then it contributes to a faster decline in survavility. The effect is the opposite for coefficients less than zero.
+
+Here we report a few of them:
+
+
 
 
 
