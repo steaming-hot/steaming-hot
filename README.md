@@ -53,7 +53,3 @@ We implemented both the  Kaplan-Meier estimator and Cox's proportional hazards m
 
 # WebApp
 See [https://share.streamlit.io/alexcasella/streamlit/main/main.py](https://share.streamlit.io/alexcasella/streamlit/main/main.py).
-
-## Licensing
-
-## Citing this work
