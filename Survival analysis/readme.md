@@ -5,6 +5,8 @@ In this study, the definition for survival time is the total time it takes for a
 
 An exponential fit was needed in order to eliminate the rapid changes between months. This eliminates unreal sudden deaths.
 
+
+
 | Grade | `mean_players` |
 |-------|----------------|
 |5|>10,000|
