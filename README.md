@@ -3,9 +3,9 @@ A project to study Steam games and user data, involving classification, predicti
 ), Eduardo Medina (medin215@umn.edu), Joseph Leung (leung.179@osu.edu), Kanishk Jain (kanishkbjain@gmail.com), Ling Zhou (zhou.2568@osu.edu
 ) and Rohit Satija (rsatija@berkeley.edu). This project was done during the Erdős Institute's 2021 Boot Camp.
 
-Link to video: https://drive.google.com/file/d/1JbodnKoRUWbPY249GB33Lu0whW1_2LKX/view
+Link to project video: https://drive.google.com/file/d/1JbodnKoRUWbPY249GB33Lu0whW1_2LKX/view
 
-Link to presentation: https://docs.google.com/presentation/d/1nM5lSnacehA5WepppeFtgiUC-IamrOd8LfG_LXbt1E8/edit#slide=id.p
+Link to project presentation: https://docs.google.com/presentation/d/1nM5lSnacehA5WepppeFtgiUC-IamrOd8LfG_LXbt1E8/edit#slide=id.p
 
 # Problem
 While certain extremely popular games like PUBG, Dota 2, and Counter Strike GO have a religious following, a large majority of games on Steam are rarely played. Using a data-driven approach, we wanted to understand why certain games are more popular than others and use this information to help game developers and gaming studios to maximize the chances of success of their products.
