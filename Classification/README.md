@@ -21,4 +21,3 @@ Here is a brief test set performance summary of all models that we tried:
 |LogisticRegression|79.11|80.05|77.92|78.97|87.41|
 |AdaBoostClassifier|79.68|81.08|78.47|79.38|88.8|
 |RandomForestClassifier|81.46|81.81|81.86|81.58|89.61|
-
