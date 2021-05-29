@@ -9,6 +9,10 @@ We used data from ``../AllData.zip`` to classify games into different "popularit
 |2|>10 and <100|
 |1|<10|
 
+Even using such simple heuristic feature selection methods, we can obtain much insight into feature selection. For example, here is a chart showing relative importance and benefit scores for all categorical variables in our dataset in the class of Grade 5 (most popular) games:
+
+![](ForPPT-Heuristic-gradevscategorical-featImp.jpg?raw=true)
+
 For multi-class classification, the above categorization led to class imbalance and poor predictive power. Therefore, we restricted our machine learning models to only solve binary classification problems and efficiently distinguish the more popular games (100 < `mean_players`) from the less popular ones (`mean_players` < 5).
 
 Here is a brief test set performance summary of all models that we tried:
