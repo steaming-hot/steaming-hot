@@ -45,4 +45,4 @@ There are many ways to use such model. Here's a few of them:
 
 #### Using Time Comparison Model as Prediction Model
 
-If one uses the weighted average as prediction, Cross Validation is done in the ``TS_ModelExp`` notebook, and accuracy is computed in the ``TS_Accuracy.ipynb`` notebook.
+If one uses the weighted average as prediction, Cross Validation is done in the ``TS_ModelExp.ipynb`` notebook, and accuracy is computed in the ``TS_Accuracy.ipynb`` notebook.
