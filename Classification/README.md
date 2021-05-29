@@ -14,5 +14,5 @@ For multi-class classification, the above categorization led to class imbalance 
 Here is a brief test set performance summary of all models that we tried:
 
 | Model | `accuracy_score`% | `precision_score`% | `recall_score`% | `f1_score`% | `AUC_score`% |
-|-------|----------------|
+|-------|-------------------|-------------------|-------------------|-------------------|-------------------|
 |KNeighborsClassifier|73.78|74.94|71.96|73.42|81.86|
