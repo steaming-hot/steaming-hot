@@ -44,7 +44,7 @@ We deployed several machine learning algorithms, including K-Nearest Neighbors, 
 The notebook DataAnalysis.ipynb contains exploratory modeling of the following problem -
 
 
-Under the (false) assumption that sales scale linearly with age of a game, we try to predict monthly sales of a game using numerical features from a game’s steam page - like number of screenshots and video trailers, price, packages and number of in-game achievements. We assume these metrics are what drive sales when someone is exploring a game's steam page. 
+Under the assumption that sales scale linearly with age of a game, we try to predict monthly sales of a game using numerical features from a game’s steam page - like number of screenshots and video trailers, price, packages and number of in-game achievements. We assume these metrics are what drive sales when someone is exploring a game's steam page. 
 Our best model on the entire dataset is UMAP based. We use UMAP to find non-linear 2-dimensional embeddings that seemed to cluster games with similar monthly sales together. We use kmeans to find these clusters, and use the median monthly sale in each clusters as OUR prediction of sales for all games in that cluster. The median of absolute errors from this method is 3x of the true values. Meaning for a game with 10k monthly sales, we are predicting anywhere from 0 to 40k. This was our best result given the range of monthly sales range from 1k to ~10million.
 We also tried other models such as random forest regression, decision tree regression and linear regressions. Decision tree regression beat UMAP model when we constrained our data to have games with monthly owners below 100,000.  
 
