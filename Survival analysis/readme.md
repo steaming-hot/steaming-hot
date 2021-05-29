@@ -7,8 +7,6 @@ The Kaplan-Meier estimator was used to generate an estimate of the Survival Prob
 
 ![](Est_surv_prob.jpg?raw=true)
 
-It is possible to appreciate a rapid slope at the beginning. This suggests that most of the games from the data set fall to the 10% mark within the first 6 to 10 months.
-
 The  Cox's proportional hazards model was used to generate predictions coming from selected features. A total of 47 numeric features were selected. It is well known that to measure the performance of this model, we have to calculate the Harrell’s concordance index (1).
 
 After cross validation, the concordance index was of ~0.6, which means that the model predicts a little better than random.
