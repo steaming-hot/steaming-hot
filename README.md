@@ -28,7 +28,7 @@ Please email the team members to request access to the full data.
 
 # Exploratory Data Analysis
 
-See ``Exploratory Data Analysis.ipynb`` for some example Jupyter notebooks examing the data. We have done basic plotting of the time series data, scatter matrix of the continous futures, histograms for the categorical features, etc.
+See ``ExploratoryDataAnalysis.ipynb`` for some example Jupyter notebooks examing the data. We have done basic plotting of the time series data, scatter matrix of the continous futures, histograms for the categorical features, etc.
 
 # Modeling
 Using these data, we developed several algorithmic and machine learning techniques to address feature selection, revenue modeling, and forecasting.  
