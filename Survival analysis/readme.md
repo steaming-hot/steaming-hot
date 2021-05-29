@@ -7,11 +7,3 @@ An exponential fit was needed in order to eliminate the rapid changes between mo
 
 ![](surv.jpg?raw=true)
 
-
-| Grade | `mean_players` |
-|-------|----------------|
-|5|>10,000|
-|4|>1,000 and <10,000|
-|3|>100 and <1,000|
-|2|>10 and <100|
-|1|<10|
