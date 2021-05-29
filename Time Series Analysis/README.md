@@ -4,7 +4,7 @@ We used time series data from ``../SteamCharts.csv`` to perform prediction and b
 
 ### Prediction Model
 
-For the prediction model, we used naive, exponential smoothing and ARIMA to perform prediction. Turn out all of them have similar accuracy. See the ``Prediction-BasicMethod`` notebook for details.
+For the prediction model, we used naive, exponential smoothing and ARIMA to perform prediction. Turn out all of them have similar accuracy. See the ``TS-BasicMethodPrediction`` notebook for details.
 
 ### Time Comparison Model
 
