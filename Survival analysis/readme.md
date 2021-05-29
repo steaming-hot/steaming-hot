@@ -17,7 +17,13 @@ Although a prediction model is not reliable, we can still observe the prognostic
 
 Here we report a few of them:
 
-
+| Feature | `Coefficient` |
+|-------|----------------|
+|RequiredAge|-0.008818|
+|DemoCount|0.025099|
+|DeveloperCount|0.127606|
+|DLCCount|-0.002965|
+|MovieCount|0.065993|
 
 
 
