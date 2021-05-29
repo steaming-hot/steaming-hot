@@ -29,7 +29,7 @@ In summary, the model is built with the following steps.
 For more details, this process is explained and built in the ``TS_ModelExp.ipynb`` notebook. Here's an example if you input a game with first 12 month data being
 [500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1050, 1100]
 
-![image.png](attachment:4722fc5d-dce0-49b6-85d4-5d19da205050.png)
+![image.png](attachment:TimeComparasionExample.png)
 
 One can see our model finds close scaled games, compute the weighted average and plot the closest three of them.
 
