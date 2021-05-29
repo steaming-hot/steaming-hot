@@ -3,7 +3,7 @@ We used data from ``../AllData.zip`` to classify games into different "popularit
 
 | Grade | `mean_players` |
 |-------|----------------|
-|.  5.  |.  >10,000.     |
+|5|>10,000|
 
 - Grade 5 | 10,000 < 
 - Grade 4 | 1,000 < `mean_players` < 10,000
