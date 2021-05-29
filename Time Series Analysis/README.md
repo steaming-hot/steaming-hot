@@ -4,7 +4,7 @@ We used time series data from ``../SteamCharts.csv`` to perform prediction and b
 
 ### Prediction Model
 
-For the prediction model, we used naive, exponential smoothing and ARIMA to perform prediction. Turn out all of them have similar accuracy. See the ``TS-BasicMethodPrediction`` notebook for details.
+For the prediction model, we used naive, exponential smoothing and ARIMA to perform prediction. Turn out all of them have similar accuracy. See the ``TS-BasicMethodPrediction.ipynb`` notebook for details.
 
 ### Time Comparison Model
 
@@ -16,7 +16,7 @@ The code we wrote up is primarily focused on: given a game with **12**-month dat
 
 #### Data Preparation
 
-To do so, we prepare our data in the ``TS_DataPreparation`` notebook. Because of our purpose above, we only include games with complete data of 18 months from its birth as our database.
+To do so, we prepare our data in the ``TS_DataPreparation.ipynb`` notebook. Because of our purpose above, we only include games with complete data of 18 months from its birth as our database.
 
 #### Building the Model and Explanation
 
@@ -33,7 +33,7 @@ For more details, this process is explained and built in the TS_ModelExp noteboo
 
 One can see our model finds close scaled games, compute the weighted average and plot the closest three of them.
 
-For the final model, the code is written up in the ``TS_Model`` notebook. It reads in the data prepared in the ``TS_DataPreparation`` notebook and build our model on that. 
+For the final model, the code is written up in the ``TS_Model.ipynb`` notebook. It reads in the data prepared in the ``TS_DataPreparation.ipynb`` notebook and build our model on that. 
 
 #### Uses
 
@@ -45,4 +45,4 @@ There are many ways to use such model. Here's a few of them:
 
 #### Using Time Comparison Model as Prediction Model
 
-If one uses the weighted average as prediction, Cross Validation is done in the ``TS_ModelExp`` notebook, and accuracy is computed in the ``TS_Accuracy`` notebook.
+If one uses the weighted average as prediction, Cross Validation is done in the ``TS_ModelExp`` notebook, and accuracy is computed in the ``TS_Accuracy.ipynb`` notebook.
